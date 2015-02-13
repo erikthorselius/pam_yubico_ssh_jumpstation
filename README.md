@@ -1,4 +1,4 @@
-# pam_yubico_ssh_jumpstation
+# SSH jumpstation with Yubico pam module
 Dockerfile to create a ssh jumpstation with two-step authentication. First out is the authentication and the nextstep is to use it as a jumpstation into the rest of the network. 
 
 A Dockerfile with SSH. Two step authentication is activated, so a user need both a private key and a Yubico OTP as a extra security measure.  
