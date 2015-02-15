@@ -1,5 +1,4 @@
 # SSH jumpstation with Yubico pam module
-Dockerfile to create a ssh jumpstation.
 
 This Dockerfile is a ssh jumpstation, it supports two step authentication with Yubico OTP as extra security measure. 
 
